@@ -23,5 +23,5 @@ class Circle {
     }
 }
 
-const t = new Circle(3);
-console.log(t.diameter, t.circumference, t.area);
+const testCircle = new Circle(3);
+console.log(testCircle.diameter, testCircle.circumference, testCircle.area);
